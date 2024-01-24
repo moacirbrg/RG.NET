@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea
+.vscode
+.vs/
+
+# Settings
+*.DotSettings*
+*launchSettings.json
+
+# Build
+[Bb]in
+[Oo]bj
+
+# Data
+data/
